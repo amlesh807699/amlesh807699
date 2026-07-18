@@ -1,11 +1,39 @@
 <h1 align="center">Hi 👋, I'm Amlesh</h1>
 
 <h3 align="center">
-Java Backend Developer • AI/ML Engineer • Spring Boot Developer
+Java Backend Developer | AI/ML Engineer | Spring Boot Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;AI%2FML+Engineer;Spring+Boot+Developer;React+%2B+Next.js+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Things" />
+Building Scalable Backend Applications • Learning Artificial Intelligence • Solving DSA
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&color=00C4FF&lines=Java+Backend+Developer;Spring+Boot+Developer;AI%2FML+Engineer;React+%2B+Next.js+Developer;DSA+Learner;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/amlesh807699">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -14,145 +42,59 @@ Java Backend Developer • AI/ML Engineer • Spring Boot Developer
 
 - 🎓 BCA Student
 - 💻 Java Backend Developer
-- 🤖 Learning AI / Machine Learning
 - 🌱 Currently learning Spring Boot, Docker & Kubernetes
-- 📚 Solving DSA Daily
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📚 Solving Data Structures & Algorithms daily
 - 🚀 Goal: Become an AI Software Engineer
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Tech Stack
 
-<p align="left">
+## 💻 Languages
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/amlesh807699">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
+## 🎨 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
-
-### DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## ⚙️ Backend
 
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=amlesh807699&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🗄️ Database
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=amlesh807699&theme=tokyonight&hide_border=true"/>
+---
 
+## ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,idea,vscode" />
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ---
@@ -167,11 +109,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amlesh807699&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amlesh807699&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -179,23 +121,35 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 
 # 👀 Profile Views
 
-<p>
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=amlesh807699&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=amlesh807699&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🚀 Current Goals
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 📚 Learning Management System | Spring Boot + React + JWT |
+| 🤖 Smart Attendance System | AI + Face Recognition |
+| 💰 Expense Tracker | Spring Boot + JWT Authentication |
+| 🏨 Hotel Booking API | REST API + MySQL |
+| 📦 Inventory Management | Spring Boot Microservices |
+| 🧠 AI Resume Parser | Python + NLP |
+
+---
+
+# 🎯 Current Goals
 
 - ✅ Solve 500+ LeetCode Problems
-- ✅ Master Spring Boot
-- ✅ Master React & Next.js
-- ✅ Learn Kubernetes
-- ✅ Learn Machine Learning
+- ✅ Master Java & Spring Boot
+- ✅ Learn Docker & Kubernetes
 - ✅ Build AI Projects
-- ✅ Open Source Contributions
+- ✅ Learn System Design
+- ✅ Contribute to Open Source
 
 ---
 
@@ -212,39 +166,59 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 
 ---
 
-# 🚀 Featured Projects
+# 📊 GitHub Stats
 
-| Project | Tech Stack |
-|----------|------------|
-| 📚 Learning Management System | Spring Boot + React |
-| 🤖 Smart Attendance System | AI + Python + Spring Boot |
-| 💰 Expense Tracker | Spring Boot + JWT |
-| 🏨 Hotel Booking API | Spring Boot + MySQL |
-| 📦 Inventory Management | Spring Boot + Microservices |
-| 🧠 AI Resume Parser | Python + NLP |
+> ⚠️ **Temporary Notice:**  
+> The public `github-readme-stats` service is currently unavailable for many users because its deployment has been paused. Once it is available again (or you self-host it), add these cards back.
+
+```html
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=amlesh807699&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699&layout=compact&theme=tokyonight"/>
+
+</p>
+```
+
+---
+
+# 🔥 GitHub Streak
+
+```html
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=amlesh807699&theme=tokyonight"/>
+
+</p>
+```
 
 ---
 
 # 💡 Favorite Quote
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+> **"First, solve the problem. Then, write the code."**
 
 ---
 
-# 📫 Contact
+# 📫 Contact Me
 
-📧 Email : YOUR_EMAIL@gmail.com
+📧 **Email:** YOUR_EMAIL@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/YOUR_LINKEDIN
+💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
 
-💻 GitHub : https://github.com/amlesh807699
+💻 **GitHub:** https://github.com/amlesh807699
 
-🧩 LeetCode : https://leetcode.com/YOUR_LEETCODE/
+🧩 **LeetCode:** https://leetcode.com/YOUR_LEETCODE_USERNAME/
 
 ---
 
 <h3 align="center">
 
 ⭐ Thanks for visiting my profile ⭐
+
+Happy Coding 🚀
 
 </h3>
