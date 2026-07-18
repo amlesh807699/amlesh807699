@@ -29,7 +29,7 @@ Building Scalable Backend Applications • Learning Artificial Intelligence • 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/amlesh807699/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
