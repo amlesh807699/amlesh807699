@@ -1,93 +1,147 @@
 <h1 align="center">Hi 👋, I'm Amlesh</h1>
 
 <h3 align="center">
-Java Backend Developer | AI/ML Engineer | Spring Boot Developer
+Java Backend Developer • AI/ML Engineer • Spring Boot Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&color=00F7FF&lines=Java+Backend+Developer;AI%2FML+Engineer;Spring+Boot+Developer;React+%2B+Next.js+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;AI%2FML+Engineer;Spring+Boot+Developer;React+%2B+Next.js+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 BCA Student passionate about Software Engineering and Artificial Intelligence.
-
-💻 I build scalable backend applications using Spring Boot.
-
-🤖 Learning Machine Learning and Artificial Intelligence.
-
-📚 Solving Data Structures & Algorithms every day.
-
-🚀 Goal: Become an AI Software Engineer.
+- 🎓 BCA Student
+- 💻 Java Backend Developer
+- 🤖 Learning AI / Machine Learning
+- 🌱 Currently learning Spring Boot, Docker & Kubernetes
+- 📚 Solving DSA Daily
+- 🚀 Goal: Become an AI Software Engineer
 
 ---
 
-# 🚀 Currently Learning
+# 🌐 Connect With Me
 
-- Java
-- Spring Boot
-- Spring Security
-- React
-- Next.js
-- Docker
-- Kubernetes
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/amlesh807699">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
 </p>
 
 ### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws" />
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=amlesh807699&show_icons=true&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=amlesh807699&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699&layout=compact&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -97,13 +151,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=amlesh807699&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=amlesh807699&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -117,65 +171,80 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amlesh807699&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amlesh807699&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </p>
+
+---
+
+# 👀 Profile Views
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=amlesh807699&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Current Goals
+
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Master Spring Boot
+- ✅ Master React & Next.js
+- ✅ Learn Kubernetes
+- ✅ Learn Machine Learning
+- ✅ Build AI Projects
+- ✅ Open Source Contributions
+
+---
+
+# 📚 Currently Learning
+
+- Java
+- Spring Boot
+- Spring Security
+- Docker
+- Kubernetes
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 📚 Learning Management System | Spring Boot + React LMS |
-| 💰 Expense Tracker | JWT Authentication |
-| 🏨 Hotel Booking API | Spring Boot REST API |
-| 🤖 AI Resume Parser | NLP + Python |
-| 📦 Inventory Management | Spring Boot Microservices |
-| 🎓 Smart Attendance | Face Recognition |
+| Project | Tech Stack |
+|----------|------------|
+| 📚 Learning Management System | Spring Boot + React |
+| 🤖 Smart Attendance System | AI + Python + Spring Boot |
+| 💰 Expense Tracker | Spring Boot + JWT |
+| 🏨 Hotel Booking API | Spring Boot + MySQL |
+| 📦 Inventory Management | Spring Boot + Microservices |
+| 🧠 AI Resume Parser | Python + NLP |
 
 ---
 
-# 🎯 2026 Goals
+# 💡 Favorite Quote
 
-✅ Solve 500+ DSA Problems
-
-✅ Master Spring Boot
-
-✅ Learn Kubernetes
-
-✅ Build AI Projects
-
-✅ Contribute to Open Source
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact
 
-<p>
+📧 Email : YOUR_EMAIL@gmail.com
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+💼 LinkedIn : https://linkedin.com/in/YOUR_LINKEDIN
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+💻 GitHub : https://github.com/amlesh807699
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="45"/>
-</a>
-
-<a href="https://github.com/amlesh807699">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+🧩 LeetCode : https://leetcode.com/YOUR_LEETCODE/
 
 ---
 
-<p align="center">
+<h3 align="center">
 
 ⭐ Thanks for visiting my profile ⭐
 
-</p>
+</h3>
