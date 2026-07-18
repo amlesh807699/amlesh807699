@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/amlesh807699/amlesh807699/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 <h3 align="center">
-Java Backend Developer • AI/ML Engineer • Spring Boot Developer
+full stack dev• AI/ML Engineer • Spring Boot Developer
 </h3>
 
 <p align="center">
