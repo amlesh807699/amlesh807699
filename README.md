@@ -35,10 +35,14 @@ Full Stack Software Engineer • Java Backend Developer • React Developer • 
 + ☕ Java & Spring Boot Backend Developer
 + ⚛️ React & Next.js Frontend Developer
 + 🤖 AI / Machine Learning Enthusiast
-+ 🧠 Solving DSA Daily
++ 🧠 Solving Data Structures & Algorithms Daily
 + ☁️ Learning Docker, Kubernetes & AWS
 + 🚀 Building Scalable Web Applications
-+ 🎯 Goal : Become AI Powered Software Engineer
++ 🎯 Goal: Become an AI-Powered Software Engineer
+```
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -75,7 +79,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 
 # 🐍 Contribution Snake
 
-> ⚠️ This section works **only after** your GitHub Action creates the `output` branch.
+> ⚠️ This section will work only after the GitHub Action generates the **output** branch.
 
 <p align="center">
 
@@ -98,25 +102,41 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 # ⚡ Development Activity
 
 ```text
-💻 Java                  ████████████████████ 95%
+☕ Java                    ████████████████████████ 95%
 
-🌱 Spring Boot           ██████████████████   90%
+🌱 Spring Boot             ██████████████████████   92%
 
-⚛️ React                 ███████████████      80%
+⚛️ React.js               ███████████████████      85%
 
-▲ Next.js                █████████████        78%
+▲ Next.js                 ██████████████████       82%
 
-🐍 Python                ███████████████      82%
+🟨 JavaScript             █████████████████        84%
 
-🤖 Machine Learning      ███████████          70%
+🔷 TypeScript             ██████████████           75%
 
-☁️ Docker                ██████████           65%
+🐍 Python                 █████████████████        86%
 
-☸️ Kubernetes            ████████             55%
+🤖 Machine Learning       ██████████████           72%
 
-🧠 Data Structures       █████████████████    88%
+🗄️ MySQL                 ███████████████████      90%
 
-🗄️ SQL                  ████████████████     85%
+🍃 MongoDB               ███████████████          80%
+
+🐳 Docker                █████████████            70%
+
+☸️ Kubernetes            ██████████               60%
+
+☁️ AWS                   ████████                 50%
+
+🧠 Data Structures       █████████████████████    92%
+
+🏗️ System Design         ███████████              65%
+
+🔐 Spring Security       █████████████████        86%
+
+🌐 REST APIs             █████████████████████    94%
+
+⚡ Microservices         █████████████            72%
 ```
 
 ---
