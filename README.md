@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amlesh</h1>
+## 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/amlesh807699/amlesh807699/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 <h3 align="center">
 Java Backend Developer • AI/ML Engineer • Spring Boot Developer
 </h3>
