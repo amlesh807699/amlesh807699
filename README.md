@@ -1,10 +1,7 @@
-# Hi 👋, I'm Amlesh
-
-## Java Backend Developer \| AI/ML Engineer
-
+Hi 👋, I'm Amlesh
+Java Backend Developer | AI/ML Engineer
 Building scalable backend applications with Spring Boot, learning AI/ML,
 and solving DSA.
-
 ```{=html}
 <p align="center">
 ```
@@ -12,33 +9,23 @@ and solving DSA.
 ```{=html}
 </p>
 ```
-
-------------------------------------------------------------------------
-
-## 🌐 Connect With Me
-
+---
+🌐 Connect With Me
 > Replace the placeholders below with your actual profiles.
-
--   GitHub: https://github.com/amlesh807699
--   LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
--   Email: YOUR_EMAIL@gmail.com
--   LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/
-
-------------------------------------------------------------------------
-
-## 👨‍💻 About Me
-
--   🎓 BCA Student
--   💻 Java Backend Developer
--   🌱 Learning Spring Boot, Docker, Kubernetes
--   🤖 Exploring AI & Machine Learning
--   📚 Solving DSA daily
--   🚀 Goal: AI Software Engineer
-
-------------------------------------------------------------------------
-
-## 🚀 Tech Stack
-
+GitHub: https://github.com/amlesh807699
+LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+Email: YOUR_EMAIL@gmail.com
+LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/
+---
+👨‍💻 About Me
+🎓 BCA Student
+💻 Java Backend Developer
+🌱 Learning Spring Boot, Docker, Kubernetes
+🤖 Exploring AI & Machine Learning
+📚 Solving DSA daily
+🚀 Goal: AI Software Engineer
+---
+🚀 Tech Stack
 ```{=html}
 <p>
 ```
@@ -46,11 +33,8 @@ and solving DSA.
 ```{=html}
 </p>
 ```
-
-------------------------------------------------------------------------
-
-## 📈 Contribution Graph
-
+---
+📈 Contribution Graph
 ```{=html}
 <p align="center">
 ```
@@ -58,11 +42,8 @@ and solving DSA.
 ```{=html}
 </p>
 ```
-
-------------------------------------------------------------------------
-
-## 🏆 GitHub Trophies
-
+---
+🏆 GitHub Trophies
 ```{=html}
 <p align="center">
 ```
@@ -70,11 +51,8 @@ and solving DSA.
 ```{=html}
 </p>
 ```
-
-------------------------------------------------------------------------
-
-## 👀 Profile Views
-
+---
+👀 Profile Views
 ```{=html}
 <p align="center">
 ```
@@ -82,36 +60,25 @@ and solving DSA.
 ```{=html}
 </p>
 ```
-
-------------------------------------------------------------------------
-
-## 🚀 Featured Projects
-
-  Project                      Description
-  ---------------------------- -----------------------
-  Learning Management System   Spring Boot + React
-  Smart Attendance System      AI + Face Recognition
-  Expense Tracker              JWT Authentication
-  Hotel Booking API            REST API
-  Inventory Management         Microservices
-  AI Resume Parser             Python + NLP
-
-------------------------------------------------------------------------
-
-## 🎯 Goals
-
--   Solve 500+ LeetCode problems
--   Master Spring Boot
--   Learn Kubernetes
--   Build AI projects
--   Contribute to Open Source
-
-------------------------------------------------------------------------
-
-## 💡 Quote
-
+---
+🚀 Featured Projects
+Project                      Description
+---
+Learning Management System   Spring Boot + React
+Smart Attendance System      AI + Face Recognition
+Expense Tracker              JWT Authentication
+Hotel Booking API            REST API
+Inventory Management         Microservices
+AI Resume Parser             Python + NLP
+---
+🎯 Goals
+Solve 500+ LeetCode problems
+Master Spring Boot
+Learn Kubernetes
+Build AI projects
+Contribute to Open Source
+---
+💡 Quote
 > First, solve the problem. Then, write the code.
-
-------------------------------------------------------------------------
-
+---
 ⭐ Thanks for visiting my profile!
