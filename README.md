@@ -154,10 +154,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 |----------|------------|
 | 📚 Learning Management System | Spring Boot + React + JWT |
 | 🤖 Smart Attendance System | AI + Face Recognition |
-| 💰 Expense Tracker | Spring Boot + JWT |
-| 🏨 Hotel Booking API | Spring Boot + MySQL |
-| 📦 Inventory Management System | Spring Boot + Microservices |
-| 🧠 AI Resume Parser | Python + NLP |
+| 💰 face Attendance | Spring Boot + python |
 
 ---
 
@@ -212,11 +209,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlesh807699
 
 📧 **Email**
 
-YOUR_EMAIL@gmail.com
+amlesh981821@gmail.com
 
 💼 **LinkedIn**
 
-https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+https://www.linkedin.com/in/amlesh-kumar-913bb2322/
 
 💻 **GitHub**
 
@@ -224,8 +221,8 @@ https://github.com/amlesh807699
 
 🧩 **LeetCode**
 
-https://leetcode.com/YOUR_LEETCODE_USERNAME/
-
+[https://leetcode.com/YOUR_LEETCODE_USERNAME/
+](https://leetcode.com/u/amlesh807699/)
 ---
 
 <p align="center">
