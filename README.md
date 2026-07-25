@@ -220,9 +220,7 @@ https://www.linkedin.com/in/amlesh-kumar-913bb2322/
 https://github.com/amlesh807699
 
 🧩 **LeetCode**
-
-[https://leetcode.com/YOUR_LEETCODE_USERNAME/
-](https://leetcode.com/u/amlesh807699/)
+https://leetcode.com/u/amlesh807699/
 ---
 
 <p align="center">
