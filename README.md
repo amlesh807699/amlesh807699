@@ -53,7 +53,7 @@ Building Scalable Backend Applications • Learning Artificial Intelligence • 
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 </p>
 
 ## 🎨 Frontend
@@ -71,7 +71,7 @@ Building Scalable Backend Applications • Learning Artificial Intelligence • 
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ## ☁️ DevOps
