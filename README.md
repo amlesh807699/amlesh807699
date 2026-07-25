@@ -77,7 +77,7 @@ Building Scalable Backend Applications • Learning Artificial Intelligence • 
 ## ☁️ DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github"/>
 </p>
 
 ## 🛠️ Tools
